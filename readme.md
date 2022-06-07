@@ -35,9 +35,12 @@ acorde a la posicion en la que me encuentre
 </p>
 
 
-## para comunicarte conmigo:
+
+## PARA COMUNICARSE CONMIGO:
 
 #### Celular: 3625143231.
 #### Mail: Federicotoloza@gmail.com.
 #### Linkedin: https://www.linkedin.com/in/federicotoloza-fullstackdeveloper/
      
+     
+# TE INVITO A QUE SEAS PARTE DE MI HISTORIA

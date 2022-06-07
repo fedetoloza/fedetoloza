@@ -43,4 +43,4 @@ acorde a la posicion en la que me encuentre
 #### Linkedin: https://www.linkedin.com/in/federicotoloza-fullstackdeveloper/
      
      
-# TE INVITO A QUE SEAS PARTE DE MI HISTORIA
+

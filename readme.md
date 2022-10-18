@@ -11,7 +11,8 @@ acorde a la posicion en la que me encuentre
 
 <p>Tengo conocimiento en: Node JS || JavaScript || React || Redux || Express || HTML || CSS || PostgreSQL </p>
 
-
+<p>En este momento aprendiendo el uso de motores graficos como Godot || Unity <p>
+<p> y otros lenguajes como C# || GDScript <p>
 <p> nociones en: Selenium Web Driver || JAVA || Python <p>
 <p>Tambien tengo nociones en herramientas de modelado 3D como: Autocad, SketchUp, Unreal Engine </p>
 
